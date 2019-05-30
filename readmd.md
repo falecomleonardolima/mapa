@@ -1,0 +1,1 @@
+fonte: https://placar.eleicoes.bol.uol.com.br/2018/1turno/presidente-por-estado/
