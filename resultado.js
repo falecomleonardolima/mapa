@@ -1,4 +1,4 @@
-{
+var resultado = {
     "oc": "br_resumo",
     "t": "1",
     "cc": "1",
